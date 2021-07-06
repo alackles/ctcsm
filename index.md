@@ -51,6 +51,8 @@ The purpose of this page is to keep track of and display my progress towards the
 
 ### Description 
 
+_From [2021 COLA Fellows Program site](https://cola.msu.hcommons.org/):_ The Colleges’ Online Learning Academy (COLA) program is a summer fellowship that allows graduate students to more deeply engage with digital teaching and learning in their work. The fellowship provides opportunities for professional development, networking, and mentorship, deep dives into aspects of teaching, and opportunities for peer review and to reflect on teaching practice.
+
 ### Artifact
 
 ### Artifact Rationale
