@@ -12,12 +12,12 @@ In addition, participants complete a **mentored teaching project** and a **teach
 
 The purpose of this page is to keep track of and display my progress towards the certificate. 
 
-:white_check_mark: Complete!
-:fast_forward: In Progress
-:no_entry: Not Yet Started
+✅ Complete!
+⏩ In Progress
+⏹️ Not Yet Started
 
 
-## :white_check_mark:  1: Developing Discipline-Related Teaching Strategies
+## ✅ 1: Developing Discipline-Related Teaching Strategies
 
 **Course Taken:** ISE 870 - Teaching College Science (Spring 2019)
 
@@ -33,7 +33,7 @@ The purpose of this page is to keep track of and display my progress towards the
 
 ### Interpretation/Reflection
 
-## :fast_forward: 2: Creating Effective Learning Environments
+## ⏩ 2: Creating Effective Learning Environments
 
 **Workshop/Program**:
 
@@ -45,7 +45,7 @@ The purpose of this page is to keep track of and display my progress towards the
 
 ### Interpretation/Reflection
 
-## 3: Incorporating Technology in Your Teaching
+## ⏩ 3: Incorporating Technology in Your Teaching
 
 **Workshop/Program**: College Online Learning Academy
 
@@ -57,7 +57,7 @@ The purpose of this page is to keep track of and display my progress towards the
 
 ### Interpretation/Reflection
 
-## 4: Understanding the University Context
+## ✅ 4: Understanding the University Context
 
 **Workshop/Program**: Graduate Leadership Fellow
 
@@ -69,11 +69,11 @@ The purpose of this page is to keep track of and display my progress towards the
 
 ### Interpretation/Reflection
 
-## 5: Assessing Student Learning
+## ⏹️ 5: Assessing Student Learning
 
 See _Mentored Teaching Project_ below.
 
-## Mentored Teaching Project
+## ⏹️ Mentored Teaching Project
 
 ### Summary of Mentored Teaching Project
 
@@ -97,6 +97,6 @@ TBD
 
 TBD
 
-## Teaching Philosophy
+## ⏩ Teaching Philosophy
 
 In Progress.
