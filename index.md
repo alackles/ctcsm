@@ -12,9 +12,9 @@ In addition, participants complete a **mentored teaching project** and a **teach
 
 The purpose of this page is to keep track of and display my progress towards the certificate. 
 
-✅ Complete!
-⏩ In Progress
-⏹️ Not Yet Started
+✅ Complete!  
+⏩ In Progress  
+⏹️ Not Yet Started  
 
 
 ## ✅ 1: Developing Discipline-Related Teaching Strategies
