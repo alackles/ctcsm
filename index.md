@@ -11,3 +11,19 @@ During my Ph.D., I am also earning a [Certificate in Teaching College Science an
 In addition, participants complete a **mentored teaching project** and a **teaching portfolio**.
 
 The purpose of this page is to keep track of and display my progress towards the certificate. 
+
+## 1: Developing Discipline-Related Teaching Strategies
+
+**Course Taken:** ISE 870 - Teaching College Science (Spring 2019)
+
+### Description 
+
+### Artifact
+
+### Artifact Rationale
+
+### Material(s) Developed During Course
+
+### Materials Rationale
+
+### Interpretation/Reflection
