@@ -12,7 +12,12 @@ In addition, participants complete a **mentored teaching project** and a **teach
 
 The purpose of this page is to keep track of and display my progress towards the certificate. 
 
-## 1: Developing Discipline-Related Teaching Strategies
+:white_check_mark: Complete!
+:fast_forward: In Progress
+:no_entry: Not Yet Started
+
+
+## :white_check_mark:  1: Developing Discipline-Related Teaching Strategies
 
 **Course Taken:** ISE 870 - Teaching College Science (Spring 2019)
 
@@ -25,5 +30,15 @@ The purpose of this page is to keep track of and display my progress towards the
 ### Material(s) Developed During Course
 
 ### Materials Rationale
+
+### Interpretation/Reflection
+
+## :fast_forward: 2: Creating Effective Learning Environments
+
+### Description 
+
+### Artifact
+
+### Artifact Rationale
 
 ### Interpretation/Reflection
