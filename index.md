@@ -33,7 +33,7 @@ The purpose of this page is to keep track of and display my progress towards the
 
 ### Interpretation/Reflection
 
-## ⏩ 2: Creating Effective Learning Environments
+## ⏹️ 2: Creating Effective Learning Environments
 
 **Workshop/Program**:
 
@@ -53,11 +53,19 @@ The purpose of this page is to keep track of and display my progress towards the
 
 _From [2021 COLA Fellows Program site](https://cola.msu.hcommons.org/):_ The Colleges’ Online Learning Academy (COLA) program is a summer fellowship that allows graduate students to more deeply engage with digital teaching and learning in their work. The fellowship provides opportunities for professional development, networking, and mentorship, deep dives into aspects of teaching, and opportunities for peer review and to reflect on teaching practice.
 
+For my COLA project, I am creating an accessibility rubric for instructors to use for self-assessment of their online courses. 
+
 ### Artifact
+
+The rubric is currently under construction; it will be here upon completion!
 
 ### Artifact Rationale
 
+An accessibility rubric gives instructors and course designers a framework for inclusive course design as it relates to the incorporation of technology into their courses. In creating creating a rubric to help other instructors assess the accessibility of their online courses, I have dug into the literature on effectively incorporating technology into teaching and put that literature into practice via self-assessment.
+
 ### Interpretation/Reflection
+
+To be done upon completion of COLA fellowship in August.
 
 ## ✅ 4: Understanding the University Context
 
