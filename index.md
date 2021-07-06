@@ -35,6 +35,8 @@ The purpose of this page is to keep track of and display my progress towards the
 
 ## :fast_forward: 2: Creating Effective Learning Environments
 
+**Workshop/Program**:
+
 ### Description 
 
 ### Artifact
@@ -42,3 +44,59 @@ The purpose of this page is to keep track of and display my progress towards the
 ### Artifact Rationale
 
 ### Interpretation/Reflection
+
+## 3: Incorporating Technology in Your Teaching
+
+**Workshop/Program**: College Online Learning Academy
+
+### Description 
+
+### Artifact
+
+### Artifact Rationale
+
+### Interpretation/Reflection
+
+## 4: Understanding the University Context
+
+**Workshop/Program**: Graduate Leadership Fellow
+
+### Description 
+
+### Artifact
+
+### Artifact Rationale
+
+### Interpretation/Reflection
+
+## 5: Assessing Student Learning
+
+See _Mentored Teaching Project_ below.
+
+## Mentored Teaching Project
+
+### Summary of Mentored Teaching Project
+
+TBD
+
+### Mentored Teaching Project Worksheet
+
+TBD
+
+### Artifacts
+
+TBD
+
+#### Assessment Instrument
+
+#### Data
+
+#### Findings
+
+### Mentored Teaching Project Document
+
+TBD
+
+## Teaching Philosophy
+
+In Progress.
